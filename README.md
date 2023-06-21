@@ -1,6 +1,5 @@
-# SELECT A BRANCH (WINDOWS, LINUX  MAC)
+# windows 7 32 bits Runtimes Required
 
-windows 7 32 bits
 
 .Net Framwwork 4.0
 https://www.microsoft.com/es-es/download/details.aspx?id=17718
