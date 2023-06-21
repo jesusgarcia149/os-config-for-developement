@@ -11,6 +11,6 @@ Windows6.1-KB2506143-x86.msu
 https://github.com/Azure/azure-devtestlab/blob/master/Artifacts/windows-powershell3/Windows6.1-KB2506143-x86.msu
 
 
-# Manual
+# Install Programs Manual
 
-chrome
+Working Progress...
