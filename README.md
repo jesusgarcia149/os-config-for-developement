@@ -1,4 +1,4 @@
-# windows 7 64 bits Runtimes Required
+# windows 7 64 bits Runtimes Required for run install.bat
 
 
 .Net Framwwork 4.0 <br>
