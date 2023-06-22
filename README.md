@@ -30,11 +30,11 @@ https://fastdl.mongodb.org/win32/mongodb-win32-i386-3.2.22.zip
 Git <br>
 https://git-scm.com/download/win
 
-# Github desktop <br>
-# https://central.github.com/deployments/desktop/desktop/latest/win32
-
 xampp-win32-7.1.8-0-VC14-installer.exe <br>
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.8/xampp-win32-7.1.8-0-VC14-installer.exe/download
 
-# docker-archive/toolbox (Don't support 32 bits) <br>
+# (Don't support 32 bits) <br>
+Github desktop <br>
+https://central.github.com/deployments/desktop/desktop/latest/win32
+docker-archive/toolbox <br>
 https://github.com/docker-archive/toolbox/releases
