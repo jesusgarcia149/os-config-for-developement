@@ -1,25 +1,25 @@
 # CLOUD
 
-You - Motor de Busqueda <br>
+You - Search Engine <br>
 https://you.com/code
 
-Visual Studio Code - Editor de Codigo<br>
+Visual Studio Code - Code Editor <br>
 https://vscode.dev/
 
-Github - Almacenamiento <br>
+Github - Storage <br>
 https://github.com/
 
-Github COdespaces - Entorno de Desarrollo <br>
+Github Codespaces - Developement Enviroment <br>
 https://github.com/features/codespaces
 
-MongoDB - Base de Datos no Relacional <br>
+MongoDB - Non Relacional Database <br>
 https://www.mongodb.com/atlas/database
 
-Firebase - Base de datos no Relacional en forma de API <br>
+Firebase - Non Relacional Database in API <br>
 https://firebase.google.com/?hl=es
 
-Planetscale (MySQL) - Base de Datos Relacional <br>
+Planetscale (MySQL) - Relacional Database <br>
 https://planetscale.com/
 
-Docker - Contenedores <br>
+Docker - Container <br>
 https://hub.docker.com/
