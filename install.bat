@@ -18,6 +18,7 @@ choco install nettime -y
 
 choco install cygwin -y
 choco install sudo -y
+choco install python-x86_32 -y
 
 choco install dotnet4.7.2 -y
 choco install directx -y
