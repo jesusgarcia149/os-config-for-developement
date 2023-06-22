@@ -30,5 +30,5 @@ https://git-scm.com/download/win
 xampp-win32-7.1.8-0-VC14-installer.exe <br>
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.8/xampp-win32-7.1.8-0-VC14-installer.exe/download
 
-# Releases · docker-archive/toolbox <br> (Don't support 32 bits)
+# docker-archive/toolbox <br> (Don't support 32 bits)
 https://github.com/docker-archive/toolbox/releases
