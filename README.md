@@ -30,6 +30,9 @@ https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-3.2.22.zip
 Git <br>
 https://git-scm.com/download/win
 
+Github desktop <br>
+https://central.github.com/deployments/desktop/desktop/latest/win32
+
 xampp-windows-x64-7.1.29-1-VC14-installer.exe <br>
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.29/xampp-windows-x64-7.1.29-1-VC14-installer.exe/download
 
