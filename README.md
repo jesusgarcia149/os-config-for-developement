@@ -35,6 +35,6 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.8/xampp-win32-7
 
 # (Don't support 32 bits) <br>
 Github desktop <br>
-https://central.github.com/deployments/desktop/desktop/latest/win32
+https://central.github.com/deployments/desktop/desktop/latest/win32 <br>
 docker-archive/toolbox <br>
-https://github.com/docker-archive/toolbox/releases
+https://github.com/docker-archive/toolbox/releases <br>
