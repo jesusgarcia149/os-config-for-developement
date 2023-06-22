@@ -15,10 +15,10 @@ https://github.com/Azure/azure-devtestlab/blob/master/Artifacts/windows-powershe
 
 Working Progress...
 
-Google Chrome <br>
+Google Chrome 109.0.5414.120 <br>
 https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
 
-Visual Studio Code <br>
+Visual Studio Code 1.50.1 <br>
 https://update.code.visualstudio.com/1.50.1/win32/stable
 
 node-v13.14.0-x86.msi <br>
