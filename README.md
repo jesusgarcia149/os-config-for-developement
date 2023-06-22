@@ -17,6 +17,9 @@ https://www.mongodb.com/try/download/community
 Git <br>
 https://git-scm.com/download/win
 
+Github Desktop <br>
+https://central.github.com/deployments/desktop/desktop/latest/win32 <br>
+
 XAMPP <br>
 https://www.apachefriends.org/es/index.html
 
