@@ -14,3 +14,22 @@ https://github.com/Azure/azure-devtestlab/blob/master/Artifacts/windows-powershe
 # Install Programs Manual
 
 Working Progress...
+
+Visual Studio Code <br>
+https://update.code.visualstudio.com/1.50.1/win32/stable
+
+node-v13.14.0-x86.msi <br>
+https://nodejs.org/dist/v13.14.0/node-v13.14.0-x86.msi
+
+mongodb-win32-i386-3.2.22.zip <br>
+https://fastdl.mongodb.org/win32/mongodb-win32-i386-3.2.22.zip
+
+Git <br>
+https://git-scm.com/download/win
+
+# Releases · docker-archive/toolbox <br> (Don't support 32 bits)
+https://github.com/docker-archive/toolbox/releases
+
+xampp-win32-7.1.8-0-VC14-installer.exe <br>
+https://sourceforge.net/projects/xampp/files/XAMPP Windows/7.1.8/xampp-win32-7.1.8-0-VC14-installer.exe/download
+
