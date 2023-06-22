@@ -15,6 +15,9 @@ https://github.com/Azure/azure-devtestlab/blob/master/Artifacts/windows-powershe
 
 Working Progress...
 
+Google Chrome
+https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
+
 Visual Studio Code <br>
 https://update.code.visualstudio.com/1.50.1/win32/stable
 
