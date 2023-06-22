@@ -6,6 +6,7 @@ choco install vscode --version=1.50.1 -y
 choco install nodejs --version=13.14.0 -y
 choco install mongodb.core.2.6 -y
 choco install git --version=2.40.1 -y
+choco install github-desktop -y
 choco install xampp-73 -y
 choco install docker-toolbox -y
 
