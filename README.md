@@ -1,10 +1,10 @@
-# windows 7 32 bits Runtimes Required
+# windows 7 32 bits Runtimes Required for run install.bat
 
 
 .Net Framwwork 4.0 <br>
 https://www.microsoft.com/es-es/download/details.aspx?id=17718
 
-Descargar .NET 6.0 (Linux, macOS y Windows) <br>
+.NET 6.0 (Linux, macOS y Windows) <br>
 https://dotnet.microsoft.com/es-es/download/dotnet/6.0
 
 Windows6.1-KB2506143-x86.msu <br>
