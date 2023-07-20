@@ -32,7 +32,7 @@ https://you.com/code
 
 
 
-# Mobile Developement
+# WEB & Mobile Developement
 
 https://appzky.com/ (App like Uber)
 
