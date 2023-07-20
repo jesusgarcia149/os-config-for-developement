@@ -34,7 +34,7 @@ https://you.com/code
 
 # WEB & Mobile Developement
 
-https://appzky.com/ (App like Uber)
+https://appzky.com/
 
 
 
