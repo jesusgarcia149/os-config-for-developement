@@ -12,7 +12,3 @@
 <a href="#">Linux/Ubuntu Updated</a>
 
 <a href="#">Linux/Ubuntu 20.04 x64</a>
-
-<a href="#">Linux/Ubuntu 18.04 x64</a>
-
-<a href="#">Linux/Ubuntu 18.04 x86</a>
