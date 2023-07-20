@@ -30,6 +30,15 @@ You - Search Engine <br>
 https://you.com/code
 
 
+
+
 # Mobile Developement
 
 https://appzky.com/
+
+
+
+
+# Graphic Design
+
+https://www.photopea.com/
