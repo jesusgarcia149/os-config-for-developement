@@ -2,14 +2,17 @@
 
 # WEB DEVELOPEMENT
 
-Github - Storage <br>
-https://github.com/
-
 Visual Studio Code - Code Editor <br>
 https://vscode.dev/
 
+Github - Storage <br>
+https://github.com/
+
 Github Codespaces - Developement Enviroment <br>
 https://github.com/features/codespaces
+
+Github Pages - Hosting Static Webs <br>
+https://pages.github.com/
 
 Codesandbox - Sandbox <br>
 https://codesandbox.io/
