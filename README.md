@@ -14,6 +14,10 @@ https://github.com/features/codespaces
 Github Pages - Hosting Static Webs <br>
 https://pages.github.com/
 
+Azure - Cloud Platform
+<br>
+https://azure.microsoft.com/es-es
+
 Codesandbox - Sandbox <br>
 https://codesandbox.io/
 
