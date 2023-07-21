@@ -32,7 +32,7 @@ https://you.com/code
 
 
 
-# WEB & Mobile Developement
+# WEB (Includes Hosting & Dominio) & Mobile Developement (No Code)
 
 https://appzky.com/
 
