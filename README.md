@@ -18,7 +18,8 @@ Azure - Cloud Platform
 <br>
 https://azure.microsoft.com/es-es
 
-Codesandbox - Sandbox (Hosting Static Webs)<br>
+Codesandbox - Sandbox
+- Hosting Static Webs
 https://codesandbox.io/
 
 MongoDB - Non Relacional Database <br>
