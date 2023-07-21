@@ -32,8 +32,10 @@ https://you.com/code
 
 
 
-# WEB (Includes Hosting & Dominio) & Mobile Developement (No Code)
-
+# WEB & Mobile Developement
+- Webs Apps
+- Includes Hosting & Dominio
+- No Code
 https://appzky.com/
 
 
