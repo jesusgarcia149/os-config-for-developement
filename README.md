@@ -1,9 +1,11 @@
 # CLOUD
 
-# WEB DEVELOPEMENT
+# CODE EDITOR
 
-Visual Studio Code - Code Editor <br>
-https://vscode.dev/
+Visual Studio Code - Code Editor
+- https://vscode.dev/
+
+# WEB DEVELOPEMENT
 
 Github - Storage <br>
 https://github.com/
