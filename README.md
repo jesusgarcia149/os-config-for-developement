@@ -1,62 +1,57 @@
 # CLOUD
 
 # CODE EDITOR
-
 Visual Studio Code - Code Editor
 - https://vscode.dev/
 
-# WEB DEVELOPEMENT
+# STORAGE
+Github - Storage
+- https://github.com/
 
-Github - Storage <br>
-https://github.com/
+# DEVELOPEMENT ENVIROMENT
+Github Codespaces - Developement Enviroment
+- https://github.com/features/codespaces
 
-Github Codespaces - Developement Enviroment <br>
-https://github.com/features/codespaces
+# HOSTING
+Github Pages - Hosting Static Webs
+- https://pages.github.com/
 
-Github Pages - Hosting Static Webs <br>
-https://pages.github.com/
-
+# CLOUD PLATFORMS
 Azure - Cloud Platform
-<br>
-https://azure.microsoft.com/es-es
+- https://azure.microsoft.com/es-es
 
+# WEB DEVELOPEMENT
 Codesandbox - Sandbox
 - Hosting Static Webs
 - https://codesandbox.io/
 
-MongoDB - Non Relacional Database <br>
-https://www.mongodb.com/atlas/database
+# DATABASES
+MongoDB - Non Relacional Database
+- https://www.mongodb.com/atlas/database
+Firebase - Non Relacional Database in API
+- https://firebase.google.com/?hl=es
+Planetscale (MySQL) - Relacional Database
+- https://planetscale.com/
 
-Firebase - Non Relacional Database in API <br>
-https://firebase.google.com/?hl=es
+# CONTAINERS
+Docker - Container
+- https://hub.docker.com/
 
-Planetscale (MySQL) - Relacional Database <br>
-https://planetscale.com/
+# SEARCH ENGINES
+You - Search Engine
+- https://you.com/code
 
-Docker - Container <br>
-https://hub.docker.com/
-
-You - Search Engine <br>
-https://you.com/code
-
-
-# Expo - WEB & Mobile Developement
+# WEB & Mobile Developement
+- https://snack.expo.dev/
 - CLI in React-Native
 - Webs Apps
 - Includes Hosting & Dominio
 - code Mode
-- https://snack.expo.dev/
-
-
-# Appzky - WEB & Mobile Developement
+- https://appzky.com/
 - Webs Apps
 - Includes Hosting & Dominio
 - No Code
 - https://appzky.com/
 
-
-
-
 # Graphic Design
-
-https://www.photopea.com/
+- https://www.photopea.com/
