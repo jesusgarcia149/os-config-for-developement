@@ -51,7 +51,6 @@
 - Webs Apps
 - Includes Hosting & Dominio
 - No Code
-- https://appzky.com/
 
 # Graphic Design
 - https://www.photopea.com/
