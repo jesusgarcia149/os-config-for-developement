@@ -52,6 +52,11 @@
 - You - Search Engine
 - https://you.com/code
 
+# IA
+- Bing IA (Microsoft)
+- https://bard.google.com/ (Google)
+- https://chat.openai.com/ (Open IA)
+
 # WEB & Mobile Developement
 - https://snack.expo.dev/
 - CLI in React-Native
@@ -65,9 +70,3 @@
 
 # Graphic Design
 - https://www.photopea.com/
-
-# IA
-- Bing IA (Microsoft)
-- https://bard.google.com/ (Google)
-- https://chat.openai.com/ (Open IA)
-
