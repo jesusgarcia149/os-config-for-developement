@@ -4,7 +4,6 @@
 - Microsoft Edge
 - Google Chrome
 - Mozilla firefox
--
 ## EXTENSIONS
 - Traductor de google
 - Vue.js devtools
