@@ -35,7 +35,7 @@
 - https://vscode.dev/
 - 
 - 
-- Extensions:
+## Extensions:
 - Github Copilot (IA)
 
 # STORAGE
