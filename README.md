@@ -161,7 +161,7 @@
 
 # IA
 ## CHAT
-- Bing IA (Microsoft)
+- https://bing.com/chat (Microsoft)
 - https://bard.google.com/ (Google)
 - https://chat.openai.com/ (Open IA)
 
