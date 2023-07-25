@@ -95,5 +95,4 @@
 - https://www.photopea.com/
 
 # Utilities
-## Videos and images
-- Pexels
+https://www.faztweb.com/contenido/recursos-desarrolladores
