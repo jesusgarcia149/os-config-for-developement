@@ -33,7 +33,7 @@
 - Visual Studio Code - Code Editor
 - https://vscode.dev/
 
-## Extensions:
+## EXTENSIONS
 - Github Copilot (IA)
 
 # STORAGE
@@ -85,7 +85,7 @@
 - https://bard.google.com/ (Google)
 - https://chat.openai.com/ (Open IA)
 
-# WEB & Mobile Developement
+# WEB & MOBILE DEVELOPEMENT
 - https://snack.expo.dev/
 - CLI in React-Native
 - Webs Apps
@@ -96,7 +96,7 @@
 - Includes Hosting & Dominio
 - No Code
 
-# Graphic Design
+# GRAPHIC DESING
 - https://www.photopea.com/
 
 # Utilities
