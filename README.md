@@ -101,6 +101,7 @@
 - https://pages.github.com/
 - Vercel
 - Heroku
+- Hostinger
 - Railway
 - Render
 - Netlify
@@ -158,6 +159,9 @@
 # SEARCH ENGINES
 - You - Search Engine
 - https://you.com/code
+
+# Questions and Answers
+- https://stackoverflow.com/
 
 # IA
 ## CHAT
