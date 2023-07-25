@@ -4,12 +4,15 @@
 - Microsoft Edge
 - Google Chrome
 - Mozilla firefox
+-
+- Extensions:
+- 
 
 # CODE EDITOR
 - Visual Studio Code - Code Editor
 - https://vscode.dev/
 - 
-- Extensions
+- Extensions:
 - Github Copilot (IA)
 
 # STORAGE
