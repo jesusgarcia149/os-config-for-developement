@@ -1,5 +1,10 @@
 # CLOUD
 
+# WEB BROWSER
+- Microsoft Edge
+- Google Chrome
+- Mozilla firefox
+
 # CODE EDITOR
 - Visual Studio Code - Code Editor
 - https://vscode.dev/
