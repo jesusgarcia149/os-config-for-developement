@@ -5,7 +5,10 @@
 - Google Chrome
 - Mozilla firefox
 -
+
 * Extensions: *
+* dhdh
+
 - Traductor de google
 - Vue.js devtools
 - React Developer Tools
