@@ -168,6 +168,10 @@
 - https://bing.com/chat (Microsoft)
 - https://bard.google.com/ (Google)
 - https://chat.openai.com/ (Open IA)
+## WEB GENERATOR
+- https://durable.co/ ($12/MOUNTH)
+- https://www.mixo.io/ ($07/MOUNTH)
+- https://butternut.ai/ ($20/MOUNTH)
 
 # DESING
 ## APP DESING
