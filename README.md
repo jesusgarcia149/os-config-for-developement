@@ -99,5 +99,5 @@
 # GRAPHIC DESING
 - https://www.photopea.com/
 
-# Utilities
+# UTILITIES
 https://www.faztweb.com/contenido/recursos-desarrolladores
