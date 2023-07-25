@@ -138,15 +138,15 @@
 
 # WEB & MOBILE DEVELOPEMENT
 - https://flutlab.io/
-- IDLE ONLINE Flutters
+- IDLE ONLINE (Flutters)
 - WEB, ANDROID, IOS
 - Code Mode
 - https://zapp.run/
-- IDLE ONLINE
+- IDLE ONLINE (Flutters)
 - WEB, ANDROID, IOS
 - Code Mode
 - https://dartpad.dev/?
-- IDLE ONLINE
+- IDLE ONLINE (Flutters)
 - WEB, ANDROID, IOS
 - Code Mode
 - https://snack.expo.dev/
