@@ -132,15 +132,6 @@
 - Docker - Container
 - https://hub.docker.com/
 
-# SEARCH ENGINES
-- You - Search Engine
-- https://you.com/code
-
-# IA
-- Bing IA (Microsoft)
-- https://bard.google.com/ (Google)
-- https://chat.openai.com/ (Open IA)
-
 # WEB & MOBILE DEVELOPEMENT
 - https://flutlab.io/
 - IDLE ONLINE (Flutters)
@@ -163,6 +154,16 @@
 - Webs Apps
 - Includes Hosting & Dominio
 - No Code
+
+# SEARCH ENGINES
+- You - Search Engine
+- https://you.com/code
+
+# IA
+## CHAT
+- Bing IA (Microsoft)
+- https://bard.google.com/ (Google)
+- https://chat.openai.com/ (Open IA)
 
 # DESING
 ## APP DESING
