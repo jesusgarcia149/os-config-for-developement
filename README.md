@@ -6,7 +6,7 @@
 - Mozilla firefox
 -
 
-* Extensions: *
+** Extensions: **
 * dhdh
 
 - Traductor de google
