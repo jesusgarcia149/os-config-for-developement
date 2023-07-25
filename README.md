@@ -103,6 +103,7 @@
 - Heroku
 - Railway
 - Render
+- Netlify
 - Fly.io
 - https://www.000webhost.com/
 ## WEB DEVELOPEMENT
