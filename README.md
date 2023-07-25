@@ -93,3 +93,7 @@
 
 # Graphic Design
 - https://www.photopea.com/
+
+# Utilities
+## Videos and images
+- Pexels
