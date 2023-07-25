@@ -105,6 +105,7 @@
 - Render
 - Netlify
 - Fly.io
+- Digital Ocean
 - https://www.000webhost.com/
 ## WEB DEVELOPEMENT
 - Codesandbox - Sandbox
