@@ -32,8 +32,7 @@
 # CODE EDITOR
 - Visual Studio Code - Code Editor
 - https://vscode.dev/
-- 
-- 
+
 ## Extensions:
 - Github Copilot (IA)
 
@@ -48,6 +47,10 @@
 # HOSTING
 - Github Pages - Hosting Static Webs
 - https://pages.github.com/
+- Vercel
+- Heroku
+- Railway
+- Render
 
 # CLOUD PLATFORMS
 - Microsoft Azure
