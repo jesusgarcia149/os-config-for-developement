@@ -51,6 +51,10 @@
 - Heroku
 - Railway
 - Render
+## WEB DEVELOPEMENT
+- Codesandbox - Sandbox
+- Hosting Static Webs
+- https://codesandbox.io/
 
 # CLOUD PLATFORMS
 - Microsoft Azure
@@ -59,11 +63,6 @@
 - https://cloud.google.com/?hl=es
 - Amazon Web Services
 - https://aws.amazon.com/es/free/
-
-# WEB DEVELOPEMENT
-- Codesandbox - Sandbox
-- Hosting Static Webs
-- https://codesandbox.io/
 
 # DATABASES
 - MongoDB - Non Relacional Database
