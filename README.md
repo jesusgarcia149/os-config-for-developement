@@ -40,7 +40,7 @@
 - dotENv
 - GitLens
 ### Compilers and Emulators
-- Flutter (Android Emulator)
+- Flutter (Mobile Android & IOS Emulator)
 - C# (Windows Complier)
 - C/C++ (Windows Compiler)
 ### programming Languages
