@@ -99,5 +99,8 @@
 # GRAPHIC DESING
 - https://www.photopea.com/
 
+# SO CLOUD
+- https://distrosea.com/
+
 # UTILITIES
 - https://www.faztweb.com/contenido/recursos-desarrolladores
