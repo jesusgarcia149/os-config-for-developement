@@ -100,4 +100,4 @@
 - https://www.photopea.com/
 
 # UTILITIES
-https://www.faztweb.com/contenido/recursos-desarrolladores
+- https://www.faztweb.com/contenido/recursos-desarrolladores
