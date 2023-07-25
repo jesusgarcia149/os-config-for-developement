@@ -168,6 +168,7 @@
 - https://www.photopea.com/
 
 # SO CLOUD
+- Linux Distros
 - https://distrosea.com/
 
 # UTILITIES
