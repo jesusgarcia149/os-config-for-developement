@@ -141,8 +141,12 @@
 - IDLE ONLINE Flutters
 - WEB, ANDROID, IOS
 - Code Mode
+- https://zapp.run/
+- IDLE ONLINE
+- WEB, ANDROID, IOS
+- Code Mode
 - https://dartpad.dev/?
-- IDLE ONLINE Flutters
+- IDLE ONLINE
 - WEB, ANDROID, IOS
 - Code Mode
 - https://snack.expo.dev/
