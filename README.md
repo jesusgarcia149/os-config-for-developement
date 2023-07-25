@@ -99,6 +99,7 @@
 # HOSTING
 - Github Pages - Hosting Static Webs
 - https://pages.github.com/
+- https://sites.google.com/
 - Vercel
 - Heroku
 - Hostinger
