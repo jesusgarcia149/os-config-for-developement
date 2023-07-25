@@ -3,6 +3,7 @@
 # CODE EDITOR
 - Visual Studio Code - Code Editor
 - https://vscode.dev/
+- 
 - Extensions
 - Github Copilot (IA)
 
