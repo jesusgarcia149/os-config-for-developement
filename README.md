@@ -33,7 +33,9 @@
 - Visual Studio Code - Code Editor
 - https://vscode.dev/
 ## EXTENSIONS
+### IA
 - Github Copilot (IA)
+### GENERAL
 - Tabnine AI Autocomplete
 - Vim
 - Better comments
