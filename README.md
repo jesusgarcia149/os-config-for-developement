@@ -54,3 +54,9 @@
 
 # Graphic Design
 - https://www.photopea.com/
+
+# IA
+- Bing IA (Microsoft)
+- https://bard.google.com/ (Google)
+- https://chat.openai.com/ (Open IA)
+
