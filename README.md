@@ -51,8 +51,12 @@
 - https://pages.github.com/
 
 # CLOUD PLATFORMS
-- Azure - Cloud Platform
+- Microsoft Azure
 - https://azure.microsoft.com/es-es
+- Google Cloud Platform
+- https://cloud.google.com/?hl=es
+- Amazon Web Services
+- https://aws.amazon.com/es/free/
 
 # WEB DEVELOPEMENT
 - Codesandbox - Sandbox
