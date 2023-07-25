@@ -32,9 +32,59 @@
 # CODE EDITOR
 - Visual Studio Code - Code Editor
 - https://vscode.dev/
-
 ## EXTENSIONS
 - Github Copilot (IA)
+- Tabnine AI Autocomplete
+- Vim
+- Better comments
+- dotENv
+- GitLens
+### Compilers and Emulators
+- Flutter (Android Emulator)
+- C# (Windows Complier)
+- C/C++ (Windows Compiler)
+### programming Languages
+- GraphQL
+- Python
+- Extension Pack for java
+- Go
+- Rust
+- Solidity
+### JAVASCRIPT
+- ESLint
+- Prettier - Code formatter
+- Quokka.js
+- Wallaby.js
+- Svelte for VS code
+- Angular Essentials
+- Vetur (Vue)
+- Deno
+- ES7 - React/Redux/React-Native
+### Frontend
+- Live Server
+- Tailwind CSS IntelliSens
+- Open in Broswer
+### Backend
+- Thunder Client (Postman)
+- REST Client
+### DATABASE
+- MongoDB for VS Code
+- SQL SERVER (mssql)
+- SQL Database Projects
+### CONTAINERS
+- Docker
+- Kubernetes
+### CLOUD
+- Azure Functions
+- Live Share
+- Live Share Audio
+- Remote - SSH
+## THEMES
+- Material Theme
+- Material Icon Theme
+- Dobri Next
+- Peacock
+- Spanish Language Pack
 
 # STORAGE
 - Github - Storage
