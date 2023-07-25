@@ -178,6 +178,7 @@
 ## APP DESING
 - https://www.figma.com/
 ## GRAPHIC DESING
+- https://www.canva.com/es_419/
 - https://www.photopea.com/
 
 # SO CLOUD
