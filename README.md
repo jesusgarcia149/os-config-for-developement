@@ -188,3 +188,5 @@
 
 # UTILITIES
 - https://www.faztweb.com/contenido/recursos-desarrolladores
+## REMOTE DESKTOP
+- https://remotedesktop.google.com/access/
