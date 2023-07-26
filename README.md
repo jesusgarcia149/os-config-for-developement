@@ -92,7 +92,7 @@
 - Github - Storage
 - https://github.com/
 
-# DEVELOPEMENT ENVIROMENT
+# IDE - INTEGRATED DEVELOPEMENT ENVIROMENT
 - Github Codespaces - Developement Enviroment
 - https://github.com/features/codespaces
 
