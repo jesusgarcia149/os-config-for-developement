@@ -3,6 +3,10 @@
 - CSS
 - JAVASCRIPT
 - TYPESCRIPT
+- GIT
+- MARKDOWN
+- DOCKER
+- BASH
 
 # Frameworks & Libraries
 ## PACKAGUE MANAGUER
