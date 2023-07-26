@@ -27,6 +27,7 @@
 - ZOD
 - REACT-ROUTER-DOM
 - CORS
+- DAYJS
 ### DEV
 - NODEMON
 
