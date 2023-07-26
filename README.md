@@ -95,6 +95,12 @@
 # IDE - INTEGRATED DEVELOPEMENT ENVIROMENT
 - Github Codespaces - Developement Enviroment
 - https://github.com/features/codespaces
+## ViteJS - Vite
+- Vite with Vue
+- https://stackblitz.com/edit/vitejs-vite-zpezt7?file=index.html&terminal=dev
+- Vite with React
+- https://stackblitz.com/edit/vitejs-vite-z7kaad?file=index.html&terminal=dev
+- 
 
 # HOSTING
 - Github Pages - Hosting Static Webs
