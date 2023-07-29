@@ -17,6 +17,7 @@ choco install git  -y
 choco install github-desktop -y
 
 choco install androidstudio -y
+choco install visualstudio2019community -y
 
 choco install docker -y
 
