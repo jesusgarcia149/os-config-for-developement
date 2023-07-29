@@ -35,6 +35,6 @@ https://www.apachefriends.org/es/index.html
 Android Studio <br>
 https://developer.android.com/?hl=es-419
 
-# PC
+# DESKTOP
 Visual Studio <br>
 https://visualstudio.microsoft.com/es/
