@@ -2,11 +2,15 @@
 
 Working Progress...
 
+# WEB BROWSER
 Google Chrome <br>
 https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
 
+# CODE EDITOR
 Visual Studio Code <br>
 https://code.visualstudio.com/Download
+
+# WEB
 
 node.js <br>
 https://nodejs.org/es
@@ -20,8 +24,17 @@ https://git-scm.com/download/win
 Github Desktop <br>
 https://central.github.com/deployments/desktop/desktop/latest/win32 <br>
 
-XAMPP <br>
-https://www.apachefriends.org/es/index.html
-
 Docker <br>
 https://www.docker.com/products/docker-desktop/
+
+# ANDROID
+Android Studio <br>
+https://developer.android.com/?hl=es-419
+
+# IDLE
+Visual Studio <br>
+https://visualstudio.microsoft.com/es/
+
+# OTHERS
+XAMPP <br>
+https://www.apachefriends.org/es/index.html
