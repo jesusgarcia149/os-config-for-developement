@@ -27,14 +27,14 @@ https://central.github.com/deployments/desktop/desktop/latest/win32 <br>
 Docker <br>
 https://www.docker.com/products/docker-desktop/
 
+# WEB / OTHERS
+XAMPP <br>
+https://www.apachefriends.org/es/index.html
+
 # ANDROID
 Android Studio <br>
 https://developer.android.com/?hl=es-419
 
-# IDLE
+# PC IDLE
 Visual Studio <br>
 https://visualstudio.microsoft.com/es/
-
-# OTHERS
-XAMPP <br>
-https://www.apachefriends.org/es/index.html
