@@ -1,8 +1,11 @@
 powershell.exe "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
 
 choco install chocolateygui -y
+
 choco install googlechrome -y
+
 choco install vscode -y
+
 choco install nodejs -y
 choco install mongodb.core.2.6 -y
 choco install mongodb-compass -y
@@ -12,6 +15,9 @@ choco install mongodb-shell -y
 choco install mongodb-atlas -y
 choco install git  -y
 choco install github-desktop -y
+
+choco install androidstudio -y
+
 choco install docker -y
 
 choco install virtualbox -y
