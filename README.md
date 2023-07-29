@@ -210,3 +210,6 @@
 - https://remotedesktop.google.com/access/
 # PRICES
 - https://www.tigrenator.com/calculator
+# JOBS
+- https://www.linkedin.com/
+- https://es.fiverr.com/
