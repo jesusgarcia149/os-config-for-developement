@@ -3,6 +3,8 @@ powershell.exe "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Se
 choco install chocolateygui -y
 
 choco install googlechrome -y
+choco install firefox -y
+choco install microsoft-edge -y
 
 choco install vscode -y
 
