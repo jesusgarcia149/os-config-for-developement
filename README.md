@@ -49,7 +49,6 @@ Working Progress...
 - https://visualstudio.microsoft.com/es/
 
 # DESIGNER
-
 - FIGMA
 - https://www.figma.com/pricing/
 - INKSCAPE
