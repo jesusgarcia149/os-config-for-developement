@@ -29,7 +29,7 @@ https://www.docker.com/products/docker-desktop/
 
 # WEB / OTHERS
 XAMPP <br>
-https://www.apachefriends.org/es/index.html
+https://www.apachefriends.org/es/index.html <br>
 COMPOSER <br>
 https://getcomposer.org/download/
 
