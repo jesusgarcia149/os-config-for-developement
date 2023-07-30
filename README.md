@@ -30,6 +30,8 @@ https://www.docker.com/products/docker-desktop/
 # WEB / OTHERS
 XAMPP <br>
 https://www.apachefriends.org/es/index.html
+COMPOSER <br>
+https://getcomposer.org/download/
 
 # ANDROID
 Android Studio <br>
