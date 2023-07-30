@@ -3,8 +3,12 @@
 Working Progress...
 
 # WEB BROWSER
--Google Chrome
+- Google Chrome
 - https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
+- Microsoft Edge
+- https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=es&brand=M100
+- Mozillar Firefox
+- https://www.mozilla.org/es-AR/firefox/download/thanks/
 
 # CODE EDITOR
 - Visual Studio Code
