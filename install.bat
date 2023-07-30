@@ -37,6 +37,10 @@ choco install cygwin -y
 choco install sudo -y
 choco install python -y
 
+choco install figma -y
+choco install inkscape -y
+choco install gimp -y
+
 choco install dotnet4.7.2 -y
 choco install directx -y
 choco install jre8 -y
