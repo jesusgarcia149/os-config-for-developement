@@ -3,40 +3,35 @@
 Working Progress...
 
 # WEB BROWSER
-Google Chrome <br>
-https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
+-Google Chrome
+- https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
 
 # CODE EDITOR
-Visual Studio Code <br>
-https://code.visualstudio.com/Download
+- Visual Studio Code
+- https://code.visualstudio.com/Download
 
 # WEB
-
-node.js <br>
-https://nodejs.org/es
-
-MongoDB <br>
-https://www.mongodb.com/try/download/community
-
-Git <br>
-https://git-scm.com/download/win
-
-Github Desktop <br>
-https://central.github.com/deployments/desktop/desktop/latest/win32 <br>
-
-Docker <br>
-https://www.docker.com/products/docker-desktop/
+- node.js
+- https://nodejs.org/es
+- MongoDB
+- https://www.mongodb.com/try/download/community
+- Git
+- https://git-scm.com/download/win
+- Github Desktop
+- https://central.github.com/deployments/desktop/desktop/latest/win32
+- Docker
+- https://www.docker.com/products/docker-desktop/
 
 # WEB / OTHERS
-XAMPP <br>
-https://www.apachefriends.org/es/index.html <br>
-COMPOSER <br>
-https://getcomposer.org/download/
+- XAMPP
+- https://www.apachefriends.org/es/index.htmL
+- COMPOSER
+- https://getcomposer.org/download/
 
 # ANDROID
-Android Studio <br>
-https://developer.android.com/?hl=es-419
+- Android Studio
+- https://developer.android.com/?hl=es-419
 
 # DESKTOP
-Visual Studio <br>
-https://visualstudio.microsoft.com/es/
+- Visual Studio
+- https://visualstudio.microsoft.com/es/
