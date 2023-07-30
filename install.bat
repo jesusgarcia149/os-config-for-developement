@@ -19,8 +19,7 @@ choco install github-desktop -y
 choco install androidstudio -y
 choco install visualstudio2019community -y
 
-choco install docker -y
-
+choco install docker-desktop -y
 choco install virtualbox -y
 
 choco install clavier-plus -y
