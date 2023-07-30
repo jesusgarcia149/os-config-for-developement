@@ -15,22 +15,28 @@ Working Progress...
 - https://code.visualstudio.com/Download
 
 # WEB
+
+# JAVASCRIPT
 - node.js
 - https://nodejs.org/es
 - MongoDB
 - https://www.mongodb.com/try/download/community
-- Git
-- https://git-scm.com/download/win
-- Github Desktop
-- https://central.github.com/deployments/desktop/desktop/latest/win32
-- Docker
-- https://www.docker.com/products/docker-desktop/
-
-# WEB / OTHERS
+# PHP
 - XAMPP
 - https://www.apachefriends.org/es/index.htmL
 - COMPOSER
 - https://getcomposer.org/download/
+
+# Storage
+- Git
+- https://git-scm.com/download/win
+- Github Desktop
+- https://central.github.com/deployments/desktop/desktop/latest/win32
+
+  # Virtualization
+- Docker
+- https://www.docker.com/products/docker-desktop/
+- Virtualbox
 
 # ANDROID
 - Android Studio
