@@ -10,6 +10,8 @@ Working Progress...
 - Mozillar Firefox
 - https://www.mozilla.org/es-AR/firefox/download/thanks/
 
+# DEVELOPER
+
 # CODE EDITOR
 - Visual Studio Code
 - https://code.visualstudio.com/Download
@@ -45,3 +47,12 @@ Working Progress...
 # DESKTOP
 - Visual Studio
 - https://visualstudio.microsoft.com/es/
+
+# DESIGNER
+
+- FIGMA
+- https://www.figma.com/pricing/
+- GIMP
+- https://www.gimp.org/downloads/
+- INKSCAPE
+- https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/dl/
