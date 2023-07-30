@@ -52,7 +52,7 @@ Working Progress...
 
 - FIGMA
 - https://www.figma.com/pricing/
-- GIMP
-- https://www.gimp.org/downloads/
 - INKSCAPE
 - https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/dl/
+- GIMP
+- https://www.gimp.org/downloads/
