@@ -13,6 +13,10 @@ choco install robo3t -y
 choco install studio3t -y
 choco install mongodb-shell -y
 choco install mongodb-atlas -y
+
+choco install xampp-80 -y
+choco install composer -y
+
 choco install git  -y
 choco install github-desktop -y
 
