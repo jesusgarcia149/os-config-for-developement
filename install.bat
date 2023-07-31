@@ -9,12 +9,12 @@ choco install microsoft-edge -y
 choco install vscode -y
 
 choco install nodejs -y
-choco install mongodb.core.2.6 -y
 choco install mongodb-compass -y
-choco install robo3t -y
-choco install studio3t -y
-choco install mongodb-shell -y
-choco install mongodb-atlas -y
+# choco install mongodb.core.2.6 -y
+# choco install robo3t -y
+# choco install studio3t -y
+# choco install mongodb-shell -y
+# choco install mongodb-atlas -y
 
 choco install xampp-80 -y
 choco install composer -y
