@@ -10,24 +10,9 @@ Working Progress...
 - Mozillar Firefox
 - https://www.mozilla.org/es-AR/firefox/download/thanks/
 
-# DEVELOPER
-
 # CODE EDITOR
 - Visual Studio Code
 - https://code.visualstudio.com/Download
-
-# WEB
-
-# JAVASCRIPT
-- node.js
-- https://nodejs.org/es
-- MongoDB
-- https://www.mongodb.com/try/download/community
-# PHP
-- XAMPP
-- https://www.apachefriends.org/es/index.htmL
-- COMPOSER
-- https://getcomposer.org/download/
 
 # Storage
 - Git
@@ -49,7 +34,21 @@ Working Progress...
 - Visual Studio
 - https://visualstudio.microsoft.com/es/
 
-# DESIGNER
+# DEVELOPER
+## WEB
+
+### JAVASCRIPT
+- node.js
+- https://nodejs.org/es
+- MongoDB
+- https://www.mongodb.com/try/download/community
+### PHP
+- XAMPP
+- https://www.apachefriends.org/es/index.htmL
+- COMPOSER
+- https://getcomposer.org/download/
+
+#### DESIGNER
 - FIGMA
 - https://www.figma.com/pricing/
 - INKSCAPE
