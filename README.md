@@ -1,11 +1,11 @@
 # Languages
 ## WEB
-- HTML
-- CSS
-- JAVASCRIPT
 - BASH
 - GIT
 - MARKDOWN
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## OTHERS
 - TYPESCRIPT
