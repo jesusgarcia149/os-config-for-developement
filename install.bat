@@ -8,6 +8,15 @@ choco install microsoft-edge -y
 
 choco install vscode -y
 
+choco install git  -y
+choco install github-desktop -y
+
+choco install docker-desktop -y
+choco install virtualbox -y
+
+choco install androidstudio -y
+choco install visualstudio2019community -y
+
 choco install nodejs -y
 :: GUI for MongoDB Local
 choco install mongodb-compass -y
@@ -20,15 +29,6 @@ choco install mongodb-compass -y
 
 choco install xampp-80 -y
 choco install composer -y
-
-choco install git  -y
-choco install github-desktop -y
-
-choco install androidstudio -y
-choco install visualstudio2019community -y
-
-choco install docker-desktop -y
-choco install virtualbox -y
 
 choco install clavier-plus -y
 choco install clover -y
