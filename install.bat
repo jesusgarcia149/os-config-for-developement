@@ -30,13 +30,16 @@ choco install mongodb-compass -y
 choco install xampp-80 -y
 choco install composer -y
 
+choco install cygwin -y
+choco install winfetch -y
+choco install ntop.portable -y
+choco install sudo -y
+
 choco install clavier-plus -y
 choco install clover -y
 choco install ditto -y
 choco install nettime -y
 
-choco install cygwin -y
-choco install sudo -y
 choco install python -y
 
 choco install figma -y
