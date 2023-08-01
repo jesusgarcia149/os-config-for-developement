@@ -1,6 +1,6 @@
 # Languages
 ## WEB
-- BASH
+- BASH (TERMINAL LINUX)
 - GIT
 - MARKDOWN (GITHUB)
 - HTML
