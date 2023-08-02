@@ -210,7 +210,10 @@
 - https://www.tigrenator.com/calculator
 # JOBS
 - https://www.linkedin.com/
+- https://www.bumeran.com.ve/
+- https://ve.computrabajo.com/
 - https://es.fiverr.com/
+- https://ve.indeed.com/
 
 # UTILITIES
 - https://www.faztweb.com/contenido/recursos-desarrolladores
