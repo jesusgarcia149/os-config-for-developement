@@ -206,14 +206,20 @@
 
 ## REMOTE DESKTOP
 - https://remotedesktop.google.com/access/
-# PRICES
-- https://www.tigrenator.com/calculator
+
 # JOBS
 - https://www.linkedin.com/
 - https://www.bumeran.com.ve/
 - https://ve.computrabajo.com/
 - https://es.fiverr.com/
 - https://ve.indeed.com/
+# PRICES
+- https://www.tigrenator.com/calculator
+# COMUNICATION
+- **Microsoft Teams**
+- https://www.microsoft.com/en-us/microsoft-teams/log-in
+- **Slack**
+- https://slack.com/intl/es-ve
 
 # UTILITIES
 - https://www.faztweb.com/contenido/recursos-desarrolladores
