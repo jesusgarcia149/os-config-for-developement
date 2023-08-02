@@ -48,10 +48,16 @@ Working Progress...
 - COMPOSER
 - https://getcomposer.org/download/
 
-#### DESIGNER
+## DESIGNER
 - FIGMA
 - https://www.figma.com/pricing/
 - INKSCAPE
 - https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/dl/
 - GIMP
 - https://www.gimp.org/downloads/
+
+## COMUNICATION
+- **Microsoft Teams**
+- https://www.microsoft.com/en-us/microsoft-teams/log-in
+- **Slack**
+- https://slack.com/intl/es-ve
