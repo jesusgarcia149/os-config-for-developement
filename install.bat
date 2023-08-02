@@ -46,6 +46,9 @@ choco install figma -y
 choco install inkscape -y
 choco install gimp -y
 
+choco install microsoft-teams -Y
+choco install slack -y
+
 choco install dotnet4.7.2 -y
 choco install directx -y
 choco install jre8 -y
