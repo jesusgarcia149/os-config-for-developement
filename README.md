@@ -23,6 +23,26 @@ Working Progress...
   # Virtualization
 - Docker
 - https://www.docker.com/products/docker-desktop/
+- **Limit Docker Consumer**
+- paste the file in C:\Users\$USER
+- .wslconfig
+```
+[wsl2]
+memory=1GB
+processors=1
+
+# [wsl2]
+# memory=512MB
+# processors=1
+
+# [wsl2]
+# memory=256MB
+# processors=1
+
+# [wsl2]
+# memory=128MB
+# processors=1
+```
 - Virtualbox
 - https://www.virtualbox.org/wiki/Downloads
 
