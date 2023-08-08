@@ -73,3 +73,5 @@ processors=1
 - https://www.microsoft.com/en-us/microsoft-teams/log-in
 - **Slack**
 - https://slack.com/intl/es-ve
+  ## TOOLS
+  - https://www.dev47apps.com/droidcam/windows/
