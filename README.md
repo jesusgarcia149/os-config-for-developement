@@ -6,7 +6,7 @@ Working Progress...
 - Google Chrome
 - https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
 - Microsoft Edge
-- https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=es&brand=M100
+- https://www.microsoft.com/es-es/edge/download?form=MA13FJ
 - Mozillar Firefox
 - https://www.mozilla.org/es-AR/firefox/download/thanks/
 
@@ -16,13 +16,13 @@ Working Progress...
 
 # Storage
 - Git
-- https://git-scm.com/download/win
+- https://git-scm.com/download/
 - Github Desktop
-- https://central.github.com/deployments/desktop/desktop/latest/win32
+- 
 
   # Virtualization
 - Docker
-- https://www.docker.com/products/docker-desktop/
+- https://docs.docker.com/desktop/install/debian/
 - **Limit Docker Consumer**
 - paste the file in C:\Users\$USER
 - .wslconfig
@@ -64,7 +64,7 @@ processors=1
 - FIGMA
 - https://www.figma.com/pricing/
 - INKSCAPE
-- https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/dl/
+- https://inkscape.org/release/inkscape-1.3/
 - GIMP
 - https://www.gimp.org/downloads/
 
@@ -75,4 +75,4 @@ processors=1
 - https://slack.com/intl/es-ve
   ## TOOLS
   - **DroidCam**
-  - https://www.dev47apps.com/droidcam/windows/
+  - https://www.dev47apps.com/droidcam/linux/
