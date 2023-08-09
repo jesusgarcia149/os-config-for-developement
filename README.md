@@ -1,20 +1,78 @@
-# Languages, Frameworks and Libraries
+# Install Programs Manual
 
-<a href="https://github.com/jesusgarcia149/resources-for-developement/tree/Languages">Languages, Frameworks and Libraries</a>
-</br>
+Working Progress...
 
-# SELECT AN OS
+# WEB BROWSER
+- Google Chrome
+- https://www.google.com/intl/es_es/chrome/thank-you.html?statcb=1&installdataindex=empty&defaultbrowser=0#
+- Microsoft Edge
+- https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=es&brand=M100
+- Mozillar Firefox
+- https://www.mozilla.org/es-AR/firefox/download/thanks/
 
-<a href="https://github.com/jesusgarcia149/os-for-developement/tree/Cloud">Cloud</a>
-</br>
+# CODE EDITOR
+- Visual Studio Code
+- https://code.visualstudio.com/Download
 
-<a href="https://github.com/jesusgarcia149/os-for-developement/tree/Windows-Updated">Windows Updated</a>
+# Storage
+- Git
+- https://git-scm.com/download/win
+- Github Desktop
+- https://central.github.com/deployments/desktop/desktop/latest/win32
 
-<a href="https://github.com/jesusgarcia149/os-for-developement/tree/Windows-7-x64">Windows 7 x64</a>
+  # Virtualization
+- Docker
+- https://www.docker.com/products/docker-desktop/
+- **Limit Docker Consumer**
+- paste the file in C:\Users\$USER
+- .wslconfig
+```
+# [wsl2]
+# memory=1GB
+# processors=1
 
-<a href="https://github.com/jesusgarcia149/os-for-developement/tree/Windows-7-x86">Windows 7 x86</a>
+[wsl2]
+memory=512MB
+processors=1
+```
+- Virtualbox
+- https://www.virtualbox.org/wiki/Downloads
 
-<a href="#">Linux Updated</a>
+# ANDROID
+- Android Studio
+- https://developer.android.com/?hl=es-419
 
-<a href="#">Linux 20.04 x64</a>
+# DESKTOP
+- Visual Studio
+- https://visualstudio.microsoft.com/es/
 
+# DEVELOPER
+## WEB
+
+### JAVASCRIPT
+- node.js
+- https://nodejs.org/es
+- MongoDB
+- https://www.mongodb.com/try/download/community
+### PHP
+- XAMPP
+- https://www.apachefriends.org/es/index.htmL
+- COMPOSER
+- https://getcomposer.org/download/
+
+## DESIGNER
+- FIGMA
+- https://www.figma.com/pricing/
+- INKSCAPE
+- https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/dl/
+- GIMP
+- https://www.gimp.org/downloads/
+
+## COMUNICATION
+- **Microsoft Teams**
+- https://www.microsoft.com/en-us/microsoft-teams/log-in
+- **Slack**
+- https://slack.com/intl/es-ve
+  ## TOOLS
+  - **DroidCam**
+  - https://www.dev47apps.com/droidcam/windows/
