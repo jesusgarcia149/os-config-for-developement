@@ -16,5 +16,5 @@
 
 <a href="https://github.com/jesusgarcia149/resources-for-developement/tree/Linux-Updated">Linux Updated</a>
 
-<a href="https://github.com/jesusgarcia149/resources-for-developement/tree/Linux-Updated">Linux 20.04 x64</a>
+<a href="https://github.com/jesusgarcia149/resources-for-developement/tree/Linux-20.04-x64">Linux 20.04 x64</a>
 
